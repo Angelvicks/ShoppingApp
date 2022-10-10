@@ -1,7 +1,7 @@
 import './App.css';
 import Cart from './pages/Cart';
 import Home from './pages/Home/Home';
-import Login from './pages/Login/Login';
+import Login from './pages/Login/Login'; 
 import Register from './pages/Login/Register';
 import Product from './pages/Product/Product';
 import ProductList from './pages/Product/ProductList';
